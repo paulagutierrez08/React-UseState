@@ -1,0 +1,11 @@
+.showhide {
+  border-radius: 23%;
+  border: none; 
+  color: rgb(1, 1, 1); 
+  padding: 15px 32px; 
+}
+
+.reverse {
+  display: flex;
+  align-items: center;
+}
